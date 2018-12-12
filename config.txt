@@ -1,0 +1,3 @@
+﻿prefix = 1
+token= NTEyMjgwNDM4NzQ4NzQxNjYy.DvKhig.div7itZ64bAWqVt0qVRy3BrM1Ug
+owner= 495676816166617119
